@@ -18,6 +18,6 @@ This ACF field type is compatible with:
 
 ### Setup
 
-1. Replace the content of `css/icon_font.css` with the css provided from your icon font.
+1. Replace the content of `css/et-line.css` with the css provided from your icon font.
 3. Replace the current font icon in the `fonts/` folder, with the icon font you want to use.
 2. Add the css classes provided by the font to the `font-info.json` file replace the iconClasses list.
