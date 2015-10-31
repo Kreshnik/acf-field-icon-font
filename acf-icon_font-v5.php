@@ -180,14 +180,8 @@ class acf_field_icon_font extends acf_field
 
         // register & include CSS
         wp_register_style('acf-input-icon_font_el', "{$dir}css/et-line.css");
-        wp_register_style('acf-input-icon_font_im', "{$dir}css/iconmoon.css");
-        wp_register_style('acf-input-icon_font_i7', "{$dir}css/pe-icon-7-stroke.css");
-        wp_register_style('acf-input-icon_font_ionicons', "{$dir}css/ionicons.css");
         wp_register_style('acf-input-icon_font_input', "{$dir}css/input.css");
         wp_enqueue_style('acf-input-icon_font_el');
-        wp_enqueue_style('acf-input-icon_font_im');
-        wp_enqueue_style('acf-input-icon_font_i7');
-        wp_enqueue_style('acf-input-icon_font_ionicons');
         wp_enqueue_style('acf-input-icon_font_input');
 
 
