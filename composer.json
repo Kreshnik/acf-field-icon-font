@@ -1,6 +1,6 @@
 {
     "name": "kreshnik/acf-field-icon-font",
-    "description": "Advanced Custom Fields plugin: Icon font",
+    "description": "An font icon selector field that lets you preview a font icon.",
     "keywords": ["wordpress", "plugin"],
     "type": "wordpress-plugin",
     "homepage": "https://github.com/Kreshnik/acf-field-icon-font",
