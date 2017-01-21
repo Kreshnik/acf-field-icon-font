@@ -1,0 +1,17 @@
+{
+    "name": "kreshnik/acf-field-icon-font",
+    "description": "An font icon selector field that lets you preview a font icon.",
+    "keywords": ["wordpress", "plugin"],
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/Kreshnik/acf-field-icon-font",
+    "authors": [
+        {
+            "name": "Kreshnik Hasanaj",
+            "homepage": "https://www.github.com/Kreshnik"
+        }
+     ],
+    "license": "GPLv2 or later",
+    "require": {
+    "composer/installers": "v1.0.7"
+    }
+}
